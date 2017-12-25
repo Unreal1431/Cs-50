@@ -1,0 +1,5 @@
+E:\проекты\pyramid 4\pyramid 4\bin\Debug\pyramid 4.exe.config
+E:\проекты\pyramid 4\pyramid 4\bin\Debug\pyramid 4.exe
+E:\проекты\pyramid 4\pyramid 4\bin\Debug\pyramid 4.pdb
+E:\проекты\pyramid 4\pyramid 4\obj\Debug\pyramid 4.exe
+E:\проекты\pyramid 4\pyramid 4\obj\Debug\pyramid 4.pdb

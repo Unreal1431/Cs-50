@@ -11,18 +11,22 @@ namespace ConsoleApplication25
     
         static void Main(string[] args)
         {
-            int piramyd = Convert.ToInt32(Console.ReadLine());
-            for (int i = 0; i <= piramyd; i++)
-            {
+            int piramyd = 1;
 
-                Console.Write(new string(' ', piramyd - i));
-                Console.Write(new string('*', i));
-                Console.Write(' ');
-                Console.Write(new string('*', i));
-                Console.WriteLine();
+            while (piramyd > 0)
+            {
+                piramyd = Convert.ToInt32(Console.ReadLine());
+                for (int i = 0; i <= piramyd; i++)
+                {
+
+                    Console.Write(new string(' ', piramyd - i));
+                    Console.Write(new string('*', i));
+                    Console.Write(' ');
+                    Console.Write(new string('*', i));
+                    Console.WriteLine();
+                }
             }
 
-            Console.ReadKey();
         }
 
     }
